@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run corona.py
+web: sh setup.sh && streamlit run quick-ratio.py
